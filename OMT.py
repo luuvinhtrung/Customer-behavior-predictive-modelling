@@ -1,6 +1,5 @@
 """
 Luu Vinh Trung
-OneMount Technical test
 August 16th 2020
 """
 import pandas as pd
